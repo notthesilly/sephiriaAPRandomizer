@@ -1,1 +1,1 @@
-# sephiriaAPRandomizer
+# Sephiria Archipelago Randomizer
