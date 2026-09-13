@@ -1,1 +1,1 @@
-# Sephiria Archipelago Randomizer
+# Archipelago Randomizer for Sephiria
