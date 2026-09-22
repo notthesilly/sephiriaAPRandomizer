@@ -3,5 +3,6 @@
          xsi:noNamespaceSchemaLocation="FodyWeavers.xsd">
   <Costura
       IncludeAssemblies="Archipelago.MultiClient.Net|Newtonsoft.Json"
+      IncludeDebugSymbols="false"
       LoadAtModuleInit="false" />
 </Weavers>
