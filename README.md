@@ -26,7 +26,7 @@ Item randomization, location checks, progression items, and broader randomizer l
 ## Requirements
 
 - Sephiria on Steam
-- MelonLoader 0.7.0
+- MelonLoader
 - Archipelago 0.6.7
 
 ## Installation
