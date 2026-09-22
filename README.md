@@ -1,6 +1,6 @@
 # Sephiria Archipelago Randomizer
 
-An unofficial [Archipelago](https://archipelago.gg/) integration for **Sephiria**.
+An [Archipelago](https://archipelago.gg/) integration for **Sephiria**.
 
 This project is currently in early development. The current build focuses on allowing Sephiria runs to function as Archipelago goals, including chapter selection, multiple required clears, and optional unique-weapon requirements.
 
