@@ -17,7 +17,7 @@ class GoalChapter(Choice):
     option_5 = 5
     option_6 = 6
 
-    default = 1
+    default = 6
 
 
 class RequiredChapterClears(Range):

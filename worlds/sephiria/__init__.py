@@ -42,3 +42,12 @@ class SephiriaWorld(World):
         )
 
         self.multiworld.itempool.append(item)
+
+    def fill_slot_data(self):
+        return {
+            "goal_chapter": self.options.goal_chapter.value,
+            "required_chapter_clears": self.options.required_chapter_clears.value,
+            "unique_weapons_required": bool(
+                self.options.unique_weapons_required.value    
+            ),
+        }
